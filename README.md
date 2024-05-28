@@ -16,7 +16,7 @@ Additionally, the application should provide a public REST API endpoint that off
 
 ## Technical Requirements
 
-- The application must be written in Python 3.9.
+- The application must be written in Python 3.10 or greater.
 - The provided REST endpoint should return data in JSON format.
 - Only the following AWS Services are permitted:
   - AWS Lambda
